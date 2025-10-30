@@ -3,6 +3,8 @@ VoteKing is a beginner-friendly Solidity smart contract that lets anyone vote be
 It’s designed to be minimal, easy to understand, and fully deployable without any constructor inputs.
 
 ⚡ Features
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/6eca4622-5657-44b6-bd45-464d9a48075e" />
+
 🧩 No Inputs Required: Works right out of the box — no setup needed.
 🗳️ Simple Voting: Vote for Alice or Bob using two easy functions.
 🔒 One Vote per Wallet: Each address can only vote once.
